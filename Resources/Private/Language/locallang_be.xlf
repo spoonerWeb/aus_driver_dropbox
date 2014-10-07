@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-05-27T14:06:47Z" product-name="aus_driver_dropbox">
+		<header/>
+		<body>
+
+			<trans-unit id="driverConfiguration.authCode">
+				<source>Dropbox authorization:</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial1">
+				<source>Click:</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial1_linkText">
+				<source>here</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial2">
+				<source>Click "Allow" (you might have to log in first)</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial3">
+				<source>Copy the authorization code and paste here:</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.success">
+				<source>Authentication successful</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.basePath">
+				<source>Base path:</source>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

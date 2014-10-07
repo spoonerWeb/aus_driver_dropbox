@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<T3DataStructure>
+	<meta>
+		<langDisable>1</langDisable>
+	</meta>
+	<ROOT>
+		<type>array</type>
+		<el>
+			<authCode>
+				<TCEforms>
+					<label>LLL:EXT:aus_driver_dropbox/Resources/Private/Language/locallang_be.xlf:driverConfiguration.authCode</label>
+					<config>
+						<type>input</type>
+						<size>30</size>
+						<eval>password</eval>
+						<wizards>
+							<specialWizard>
+								<type>userFunc</type>
+								<userFunc>AUS\AusDriverDropbox\Utility\FlexFormUtility->authorize</userFunc>
+							</specialWizard>
+						</wizards>
+					</config>
+				</TCEforms>
+			</authCode>
+			<basePath>
+				<TCEforms>
+					<label>LLL:EXT:aus_driver_dropbox/Resources/Private/Language/locallang_be.xlf:driverConfiguration.basePath</label>
+					<config>
+						<type>input</type>
+						<size>30</size>
+					</config>
+				</TCEforms>
+			</basePath>
+		</el>
+	</ROOT>
+</T3DataStructure>

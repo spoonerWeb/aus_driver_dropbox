@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2013-05-27T14:06:47Z" product-name="aus_driver_dropbox">
+		<header/>
+		<body>
+
+			<trans-unit id="driverConfiguration.authCode">
+				<target>Dropbox Verbindung:</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial1">
+				<target>Klicken Sie:</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial1_linkText">
+				<target>hier</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial2">
+				<target>Klicken Sie auf "Zulassen" (evtl. müssen Sie sich zuerst einloggen)</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.tutorial3">
+				<target>Kopieren Sie den Code und fügen Sie diesen hier ein:</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.authCode.success">
+				<target>Verbindung zu Dropbox erfolgreich</target>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.basePath">
+				<target>Pfad zur Basis:</target>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>
